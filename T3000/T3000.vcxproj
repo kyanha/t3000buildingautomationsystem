@@ -202,6 +202,7 @@
     </ClCompile>
     <ClCompile Include="T3000.cpp" />
     <ClCompile Include="T3000Doc.cpp" />
+    <ClCompile Include="T3000RegAddress.cpp" />
     <ClCompile Include="T3000TableView.cpp" />
     <ClCompile Include="T3000View.cpp" />
     <ClCompile Include="TDelayForm.cpp" />
